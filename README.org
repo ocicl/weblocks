@@ -1,0 +1,10 @@
+* weblocks
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/skypher/weblocks.git   |
+| commit  | fe96152  |
+| systems | weblocks |
+|---------+-------------------------------------------|
+
